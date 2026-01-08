@@ -1,0 +1,47 @@
+# Compiled object files and binaries
+*.o
+*.obj
+*.exe
+*.out
+a.out
+
+# Static/shared libraries
+*.so
+*.dylib
+*.dll
+
+# Typical build directories
+/build/
+/bin/
+/dist/
+cmake-build-*/
+
+# Backup and editor swap files
+*~
+*.swp
+*.swo
+*.bak
+
+# IDE and editor directories
+/.vscode/
+/.idea/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Misc
+compile_commands.json
+
+# C++ test / temporary outputs
+*.out.*
+
+# Ignore compiled executables that match .cpp source basenames
+# (for each source file foo.cpp we'll ignore the built executable `foo`)
+/dp/dice-combinations
+/dp/minimizing-coins
+
