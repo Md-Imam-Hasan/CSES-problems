@@ -44,4 +44,5 @@ compile_commands.json
 # (for each source file foo.cpp we'll ignore the built executable `foo`)
 /dp/dice-combinations
 /dp/minimizing-coins
+/dp/coin-combinations1
 
